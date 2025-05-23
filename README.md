@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A passionate full-stack developer from the UK</h3>
+<h3 align="center">A hungry developer from the UK</h3>
 
-- 🔭 I’m currently working on [a task management app](https://github.com/jordanfh1/task-management)
+- 🔭 I’m currently working on [a recipe manager app](https://github.com/jordanfh1/recipe_manager)
 
-- 🌱 I’m currently learning **TypeScript, Python, React**
-
-- 👯 I’m looking to collaborate on **future web apps**
-
-- 💬 Ask me about **react, CSS, jazz**
+- 🌱 I’m currently learning **TypeScript, Flutter, React**
 
 - 📫 How to reach me **jordanfhoughton@gmail.com**
-
-- ⚡ Fun fact **I play bass guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
