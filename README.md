@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
-<h3 align="center">A hungry developer from the UK</h3>
+<h3 align="center">A developer who is always looking to learn.</h3>
+<h3 align="center">🇬🇧 UK based.</h3>
 
 - 🔭 I’m currently working on [a recipe manager app](https://github.com/jordanfh1/recipe_manager)
 
